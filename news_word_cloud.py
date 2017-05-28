@@ -8,7 +8,7 @@ import json  # to convert python dictionary to string format
 app = Flask(__name__)
 
 # get API key from NewsAPI.org
-NEWS_API_KEY = "d49fbefff08845f7867b09082883b6da"
+NEWS_API_KEY = "123456"
 
 
 @app.route('/')
